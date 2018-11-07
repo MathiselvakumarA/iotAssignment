@@ -1,2 +1,2 @@
 # iotAssignment
-IOT Assignment for KONE
+IOT Assignment with REST end points
